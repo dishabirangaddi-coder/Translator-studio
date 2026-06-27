@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+python-docx
+pdfplumber
+groq
+sentence-transformers
+python-dotenv
+requests
